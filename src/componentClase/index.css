@@ -1,0 +1,13 @@
+.buttonMas {
+    background-color: #c21b12;
+    border: 3px solid #510625e5;
+    padding: 1rem;
+    border-radius: 3px;
+    /* gap: 4px; */
+}
+.buttonMenos {
+    background-color: #c21b12;
+    border: 3px solid #510625e5;
+    padding: 1rem;
+    border-radius: 3px;
+}
